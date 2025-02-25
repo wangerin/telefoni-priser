@@ -1,5 +1,7 @@
 {
   "DK":{"data":"70G","tale":"Fri"},
   "EU":{"data":"30G","tale":"Fri"},
+  "pris":109,
+  "tilbud":19,
   "source":"https://eesy.dk/default.asp"
 }
