@@ -1,5 +1,6 @@
 {
   "DK":{"data":"100Gb"},
-  "price":99,
+  "pris":99,
+  "tilbud":"1 måned gratis",
   "source":"https://www.lebara.dk/da/data-packages.html"
 }
