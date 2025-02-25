@@ -1,6 +1,6 @@
 {
   "DK":{"data":"100Gb","tale":"100t"},
-  "EU":{"data":"6Gb","tale":"5t"},
+  "EU":{"data":"10Gb","tale":"5t"},
   "tale-til-udland":"10t",
   "price":99,
   "source":"https://www.lebara.dk/da/prepaid-packages.html"
