@@ -2,6 +2,7 @@
   "DK":{"data":"30Gb","tale":"30t"},
   "EU":{"data":"6Gb","tale":"5t"},
   "tale-til-udland":"10t",
-  "price":49,
+  "pris":49,
+  "tilbud":"1 måned gratis",
   "source":"https://www.lebara.dk/da/prepaid-packages.html"
 }
