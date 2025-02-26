@@ -1,6 +1,6 @@
 {
-  "DK"{"data":"10G","tale":"2t"},
-  "EU"{"data":"10G","tale":"2t"},
+  "DK":{"data":"10G","tale":"2t"},
+  "EU":{"data":"10G","tale":"2t"},
   "pris":65,
   "source":"https://www.greentel.dk/mobilabonnement/"
 }

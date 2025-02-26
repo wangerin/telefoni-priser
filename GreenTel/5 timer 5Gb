@@ -1,6 +1,6 @@
 {
-  "DK"{"data":"5G","tale":"5t"},
-  "EU"{"data":"5G","tale":"5t"},
+  "DK":{"data":"5G","tale":"5t"},
+  "EU":{"data":"5G","tale":"5t"},
   "pris":55,
   "source":"https://www.greentel.dk/mobilabonnement/"
 }

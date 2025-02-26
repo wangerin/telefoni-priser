@@ -1,6 +1,6 @@
 {
-  "DK"{"data":"500G","tale":"Fri"},
-  "EU"{"data":"32G","tale":"Fri"},
+  "DK":{"data":"500G","tale":"Fri"},
+  "EU":{"data":"32G","tale":"Fri"},
   "pris":189,
   "source":"https://www.greentel.dk/mobilabonnement/"
 }
