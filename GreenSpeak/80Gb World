@@ -1,0 +1,22 @@
+{
+  "DK":{"data":"80G","tale":"Fri"},
+  "world":{"data":"35G","tale":"Fri",
+      "coverage":[
+        "EU",
+        "USA (inkl. Virgin Islands, Porto Rico)",
+        "Canada",
+        "Thailand",
+        "Tyrkiet",
+        "Albanien",
+        "Bermuda",
+        "Bosnien-Hercegovina",
+        "Cypern (den Tyrkiske del)",
+        "Kosovo",
+        "Makedonien",
+        "Montenegro",
+        "Serbien"
+      ]
+   },
+  "pris":179,
+  "source":"https://greenspeak.dk/mobilabonnementer/w-mobilabonnement-med-80-gb-data"
+}
