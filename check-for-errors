@@ -1,0 +1,6 @@
+#!/bin/bash
+
+find	-not -name network		\
+	-not -name README.md		\
+	-not -name check-for-errors	\
+		-type f -not -path './.git/*' -ls -exec jq . \{\} \;
